@@ -27,13 +27,13 @@ This project is a **Customer Relationship Management (CRM) application** develop
 ## 🏗️ **PROJECT ARCHITECTURE**
 The project follows a cloud-based CRM architecture using the Salesforce platform, where all data, logic, and automation are managed securely in the cloud.
 
-**USER INTERFACE (SALESFORCE UI)
-↓
+*USER INTERFACE (SALESFORCE UI)
+->
 SALESFORCE BUSINESS LOGIC
 (OBJECTS, WORKFLOWS, APEX)
-↓
+->
 SALESFORCE CLOUD DATABASE
-(SECURE DATA STORAGE)**
+(SECURE DATA STORAGE)*
 
 
 ---
